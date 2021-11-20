@@ -83,7 +83,12 @@ This includes names of pictures used, locations of places visited, names of bran
 
 <div>
 <h3>Hopefully you learned something!<h3>
+ 
+ <video src= "https://www.youtube.com/embed/.mp4"width="560" height="315" controls>
+  Video not supported
+</video>
 </div>
  <imag scrc= "#"alt"A phone with a pink background. The phone show's the Twitter app. "https://www.flickr.com/photos/stockcatalog/41494068490/in/faves-194439820@N07/" title="tweets"><img src="https://live.staticflickr.com/920/41494068490_b21af0a919_b.jpg" width="1024" height="683"/>
+ 
 
 
