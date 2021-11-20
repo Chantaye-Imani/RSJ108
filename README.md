@@ -1,19 +1,20 @@
-# RSJ108
+<body>
+ <div id="introduction">
+#A GUIDE FOR RSJ108
 An Instruction Challenge for JOUR 108  
 
 Reynolds School of Journalism  
 University of Nevada, Reno
 
 
-<body>
 <h1>How to make successful a thick tweet</h1>
 
-<div id="introduction">
-<h2>A Guide For Jour 108</h2> Chantaye Louis
+<h2>Chantaye Louis</h2> 
 </div>
+ <imag scrc= "https://www.flickr.com/photos/stockcatalog/41494068490/in/faves-194439820@N07/" title="tweets"><img src="https://live.staticflickr.com/920/41494068490_b21af0a919_b.jpg" width="1024" height="683"/>
 
-<div id="How do you tweet">
-<h2>How do you tweet?</h2>
+<div> 
+<h1>How do you tweet?</h1>
 <h4>Having a message</h4>
 <p>Is your message clear? Is the message concise?
 If you don’t have a clear message it will be hard for the 
