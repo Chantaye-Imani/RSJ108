@@ -1,22 +1,25 @@
 <body>
- <div id="introduction">
-#A GUIDE FOR RSJ108
-An Instruction Challenge for JOUR 108  
-
-Reynolds School of Journalism  
-University of Nevada, Reno
+<div id="introduction">
+An Instruction Challenge for JOUR 108
+Reynolds School of Journalism 
+University of Nevada, Reno 
 
 
+<div>
 <h1>How to make successful a thick tweet</h1>
 
 <h2>Chantaye Louis</h2> 
 </div>
- <imag scrc= "https://www.flickr.com/photos/stockcatalog/41494068490/in/faves-194439820@N07/" title="tweets"><img src="https://live.staticflickr.com/920/41494068490_b21af0a919_b.jpg" width="1024" height="683"/>
+ <imag scrc= "#"alt"A phone with a pink background. The phone show's the Twitter app. "https://www.flickr.com/photos/stockcatalog/41494068490/in/faves-194439820@N07/" title="tweets"><img src="https://live.staticflickr.com/920/41494068490_b21af0a919_b.jpg" width="1024" height="683"/>
 
 <div> 
 <h1>How do you tweet?</h1>
-<h4>Having a message</h4>
-<p>Is your message clear? Is the message concise?
+ You should alway's start by asking yourself questions.
+</div>
+
+<div>
+<h2>Having a message</h2>
+<p> Ask youself What is your message?Is your message clear? Is the message concise?
 If you don’t have a clear message it will be hard for the 
 consumer to understand the point of your tweet.</p>
 </div>
@@ -24,7 +27,7 @@ consumer to understand the point of your tweet.</p>
 <div id="Delivery">
 <h2>Delivery</h2>
 <p>If you're going to deliver your message, what is the tone and mood?
-Does it match what is being presented?</P>
+Does it match what is being presented?Do you have a strong delivery of the message?</P>
 </div>
 
 <div id="Punctuation">
@@ -82,6 +85,6 @@ This includes names of pictures used, locations of places visited, names of bran
 </div>
 
 <div>
- <video src=<iframe width="560" height="315" src="https://www.youtube.com/embed/hItpWLBuG0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <video src="https://www.youtube.com/embed/hItpWLBuG0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   Video not supported
   </video>
