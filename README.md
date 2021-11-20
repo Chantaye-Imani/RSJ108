@@ -10,7 +10,7 @@ University of Nevada, Reno
 
 <h2>Chantaye Louis</h2> 
 </div>
- <imag scrc= "#"alt"A phone with a pink background. The phone show's the Twitter app. "https://www.flickr.com/photos/stockcatalog/41494068490/in/faves-194439820@N07/" title="tweets"><img src="https://live.staticflickr.com/920/41494068490_b21af0a919_b.jpg" width="1024" height="683"/>
+ <img src="https://www.flickr.com/photos/stockcatalog/41494071470/in/faves-194439820@N07/" title="twitter"><img src="https://live.staticflickr.com/1761/41494071470_813e85bb3d_c.jpg" width="800" height="533"/>
 
 <div> 
 <h1>How do you tweet?</h1>
@@ -57,9 +57,10 @@ This helps with giving credit to the original owner as well as providing sources
 </div>
 
 <div id="A Unsuccessful Tweet">
-<h3>A UnsuccessfulTweet Tweet</h3>
+<h2>A UnsuccessfulTweet Tweet</h2>
 </div>
-
+<img src="https://www.flickr.com/photos/161537003@N02/38417695074/in/faves-194439820@N07/" title="Tweet!"><img src="https://live.staticflickr.com/4587/38417695074_98a2a857c5_c.jpg" width="720" height="188"/>
+   
 <div id="Reasons why this tweet is unsuccessful">
 <h2>Reasons why this tweet is unsuccessful</h2>
 <ol>
@@ -83,8 +84,6 @@ This includes names of pictures used, locations of places visited, names of bran
 <div>
 <h3>Hopefully you learned something!<h3>
 </div>
+ <imag scrc= "#"alt"A phone with a pink background. The phone show's the Twitter app. "https://www.flickr.com/photos/stockcatalog/41494068490/in/faves-194439820@N07/" title="tweets"><img src="https://live.staticflickr.com/920/41494068490_b21af0a919_b.jpg" width="1024" height="683"/>
 
-<div>
- <video src="https://www.youtube.com/embed/hItpWLBuG0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  Video not supported
-  </video>
+
