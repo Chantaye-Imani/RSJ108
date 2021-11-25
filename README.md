@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>How to make a successful Thick Tweet</title>
+ How to make a successful Thick Tweet
 </head>
 
 
@@ -20,7 +20,8 @@ University of Nevada, Reno
 
 <h2>Chantaye Louis</h2> 
 </div>
- <img src="https://www.flickr.com/photos/stockcatalog/41494071470/in/faves-194439820@N07/" title="twitter"><img src="https://live.staticflickr.com/1761/41494071470_813e85bb3d_c.jpg" width="800" height="533"/>
+ 
+ <img src="https://live.staticflickr.com/1761/41494071470_813e85bb3d_c.jpg" width="800" height="533"/>
 
 <div> 
 <h1>How do you tweet?</h1>
@@ -69,7 +70,8 @@ This helps with giving credit to the original owner as well as providing sources
 <div id="A Unsuccessful Tweet">
 <h2>A UnsuccessfulTweet Tweet</h2>
 </div>
-<img src="https://www.flickr.com/photos/161537003@N02/38417695074/in/faves-194439820@N07/" title="Tweet!"><img src="https://live.staticflickr.com/4587/38417695074_98a2a857c5_c.jpg" width="720" height="188"/>
+
+<img src="https://live.staticflickr.com/4587/38417695074_98a2a857c5_c.jpg" width="720" height="188"/>
    
 <div id="Reasons why this tweet is unsuccessful">
 <h2>Reasons why this tweet is unsuccessful</h2>
@@ -92,11 +94,13 @@ This includes names of pictures used, locations of places visited, names of bran
 </div>
 
 <div>
-<h3>Hopefully you learned something!<h3>
- 
-<iframe width="1013" height="570" src="https://www.youtube.com/embed/hItpWLBuG0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                                                                                                                                                                                                         
-<imag scrc= "#"alt"A phone with a pink background. The phone show's the Twitter app. "https://www.flickr.com/photos/stockcatalog/41494068490/in/faves-194439820@N07/" title="tweets"><img src="https://live.staticflickr.com/920/41494068490_b21af0a919_b.jpg" width="1024" height="683"/>
+<h3>Hopefully you learned something!</h3>
+  
+[![Thick Tweet Video Guide](https://live.staticflickr.com/65535/51700268821_1a98e197ff_c.jpg)](https://www.youtube.com/embed/hItpWLBuG0s)
+  
+
+                                                                                                                                                                                                                                        
+<img src="https://live.staticflickr.com/920/41494068490_b21af0a919_b.jpg" width="1024" height="683"/>
  
 
 
